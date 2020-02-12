@@ -76,7 +76,7 @@
     1. The patient goes to the view_doctors screen.
     2. Show the patient a list of doctors.
 
-# UML Use Case Diagrams
+# 3. UML Use Case Diagrams
 **Pay a Bill**   
 !["Pay a Bill" Use Case Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/UseCase_PayABill.png?raw=true)
 
@@ -90,10 +90,10 @@
 !["View Doctors" Use Case Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/UseCase_ViewDoctors.png?raw=true)
    
 
-# UML Class Diagrams
+# 4. UML Class Diagrams
 
 
 
 
-# UML Component Diagram
+# 5. UML Component Diagram
 
