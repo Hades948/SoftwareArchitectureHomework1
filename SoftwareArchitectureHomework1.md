@@ -77,6 +77,7 @@
     2. Show the patient a list of doctors.
 
 # 3. UML Use Case Diagrams
+
 **Pay a Bill**   
 !["Pay a Bill" Use Case Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/UseCase_PayABill.png?raw=true)
 
@@ -92,8 +93,17 @@
 
 # 4. UML Class Diagrams
 
+**Pay a Bill**   
+!["Pay a Bill" Class Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/ClassDiagram_PayABill.png?raw=true)
 
+**View Patients**   
+!["View Patients" Class Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/ClassDiagram_ViewPatients.png?raw=true)
 
+**Schedule Visit**   
+!["Schedule Visit" Class Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/ClassDiagram_ScheduleVisit.png?raw=true)
+
+**View Doctors**   
+!["View Doctors" Class Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/ClassDiagram_ViewDoctors.png?raw=true)
 
 # 5. UML Component Diagram
 
