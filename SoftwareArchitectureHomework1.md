@@ -107,3 +107,4 @@
 
 # 5. UML Component Diagram
 
+![Component Diagram](https://github.com/Hades948/SoftwareArchitectureHomework1/blob/master/ComponentDiagram.png?raw=true)
